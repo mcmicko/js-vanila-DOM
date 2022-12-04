@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "node-sass -w scss/ -o dist/css/ --recursive"
+    "scss": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "keywords": [],
   "author": "",
